@@ -16,7 +16,7 @@
 						lastName: $(form).find("#lastName").val(),
 						company: $(form).find("#company").val(),
 						email: $(form).find("#email").val(),
-						app: 'SmartManual'
+						app: 'SmartGuide'
 					}
 				});
 				
